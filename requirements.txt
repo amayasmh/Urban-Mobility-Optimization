@@ -1,5 +1,7 @@
+# This file lists all the dependencies that your project requires. (Alphabetical order)
 black
+dotenv
 flake8
-isort
 httpx
+isort
 logging
